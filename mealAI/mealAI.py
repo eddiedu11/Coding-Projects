@@ -38,6 +38,7 @@ def handle_restrictions():
             print("AI: Anything else?")
 
 def get_feedback(): 
+    return
 
 if __name__ == "__main__": 
     handle_restrictions() 
